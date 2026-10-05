@@ -1,0 +1,83 @@
+{
+  "source_repository": "https://github.com/zhidandbor/HES",
+  "source_path": "course_offline/webinars_past",
+  "source_index_sha256": "4386586288fd3e467b82be3c0b4a11b5015d0c9d9c2a9fb433d295500e64b8f9",
+  "source_data_sha256": "a76005b591945298d3d799d8cdb44c7dd649a720776919c3c98b116765d62000",
+  "source_verification_sha256": "ed6a1581c1cf9e71a6937e67947a5c8dcf5071b011dad7c28e4677120cfc2275",
+  "source_url": "https://school.a-sstroy.ru/study?webinarsTypeId=2&tab=webinars",
+  "source_snapshot_date": "2026-10-05",
+  "webinar_count": 13,
+  "rutube_page_checks": 13,
+  "files": [
+    {
+      "path": "index.html",
+      "size_bytes": 21862,
+      "sha256": "4386586288fd3e467b82be3c0b4a11b5015d0c9d9c2a9fb433d295500e64b8f9"
+    },
+    {
+      "path": "assets/css/style.css",
+      "size_bytes": 23387,
+      "sha256": "d71221437d37dc4d32d4ef34e471d0a81375e64657b5c73bfada135aa89a6ef3"
+    },
+    {
+      "path": "assets/js/search.js",
+      "size_bytes": 509,
+      "sha256": "0e691f2072d2b528ac0d2528903029c0b6a0f863172cee0215aa7f1acb571297"
+    },
+    {
+      "path": "assets/images/Author_18724983ef164f65994db03937ddcc89_20250121T112853.png",
+      "size_bytes": 925926,
+      "sha256": "31d5007a01be72eea653e4fc6e4414c4ca60b3b77c3ad16899f4d707aa408492"
+    },
+    {
+      "path": "assets/images/Author_2256f82e9e194ed2a451418bb559faf1_20251006T171254.png",
+      "size_bytes": 241835,
+      "sha256": "933b700717fa8eb0c696dfce1201215f83fc8fe7460c945cff9398861929c73c"
+    },
+    {
+      "path": "assets/images/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png",
+      "size_bytes": 488849,
+      "sha256": "b2ac0c996f5e54c48bd242a050cd71f5544b9ec3fe03482d2f47fb7d496474b9"
+    },
+    {
+      "path": "assets/images/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+      "size_bytes": 941135,
+      "sha256": "7284275bc88ffa440becd6c299b9a51fde9d103748fbb685a9ddcdf02f91f2d6"
+    },
+    {
+      "path": "assets/images/Author_48ee9a72b6ee456c9d26cd30d93dee02_20260810T103643.png",
+      "size_bytes": 542183,
+      "sha256": "dcf4b55f644fbf9a0781cb55a0374678733e4d60196c8d0a8b144284059aa808"
+    },
+    {
+      "path": "assets/images/Author_4dfe8f46104d4d5d87dda1c8a8fd90ff_20260804T124848.png",
+      "size_bytes": 581567,
+      "sha256": "4444a040d44bcb50447ebb64374a43b3f6a200b28e778bef58bf6d6c3969b8aa"
+    },
+    {
+      "path": "assets/images/Author_5d96e075bf9448b0844d16b6db395b7d_20250908T105921.png",
+      "size_bytes": 701226,
+      "sha256": "f7442ec3ed646f4d1721c5ccdef76bf7d6c51f741c7d3c4195af16e3f3d11d47"
+    },
+    {
+      "path": "assets/images/Author_78f12ccdbae14b7da9383065564a01d0_20250206T101723.png",
+      "size_bytes": 310122,
+      "sha256": "74b03707b474b918021459836e98b8000261b8e7363c332768ca47e12f36bdf4"
+    },
+    {
+      "path": "assets/images/Author_98cde8e0c843433591c6d4bc982ab056_20260616T105751.png",
+      "size_bytes": 358649,
+      "sha256": "0c159d256d6568bb9dd6818e99f36fc8b7d17a7ecea1cf67049db540875a319b"
+    },
+    {
+      "path": "assets/images/Author_a4ce22178d2b4dac82a23d1b8865200a_20250227T105251.png",
+      "size_bytes": 745081,
+      "sha256": "da07ba8a6d1fbcc6644952924d07582b78cf5dd1ecc85bf938ed923669f58b3e"
+    },
+    {
+      "path": "assets/images/Author_f9fe953523aa46078c5ea247cf6bfa7e_20260904T171052.jpg",
+      "size_bytes": 42631,
+      "sha256": "940aa4b7fe40b5e9a9a5153ca62f898730ded3fe5f5e51cba97ba7d7b200a185"
+    }
+  ]
+}
